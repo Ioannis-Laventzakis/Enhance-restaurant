@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bfc5d750-2c64-4a91-b1c6-56d4bbdfce53" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/reposetory/DishReposetory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/service/DishService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/tamplates/dish-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/tamplates/dish-list.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/RestaurantApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/RestaurantApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/model/Dish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/model/Dish.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/reposetory/DishReposetory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/reposetory/DishReposetory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/tamplates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/tamplates/home.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +20,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="HTML File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -43,6 +44,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -56,7 +62,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "com.github.copilot.settings.ApplicationConfigurable",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -90,7 +96,7 @@
       <updated>1715681666118</updated>
       <workItem from="1715681667190" duration="311000" />
       <workItem from="1715681987594" duration="79000" />
-      <workItem from="1715682079103" duration="1366000" />
+      <workItem from="1715682079103" duration="2518000" />
     </task>
     <servers />
   </component>
